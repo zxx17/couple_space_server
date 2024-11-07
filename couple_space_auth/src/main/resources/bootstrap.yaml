@@ -1,6 +1,6 @@
 spring:
   application:
-    name: couple-space-business
+    name: couple-space-auth
   cloud:
     nacos:
       config:

@@ -1,11 +1,9 @@
 server:
-  port: 8000
+  port: 8010
 
 spring:
-  application:
-    name: couple-space-business
   datasource:
-    url:
-    username:
-    password:
+    username: root
+    password: lyun@mysqlzxx
+    url: jdbc:mysql://120.26.210.135:13306/cpdb?serverTimezone=Asia/Shanghai&useUnicode=true&characterEncoding=utf8&useSSL=true&allowMultiQueries=true
 
